@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 
 Would you like to find me?
 
-[![Linkedin Bage](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrmodesto/)](https://www.linkedin.com/in/gabrielrmodesto/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrmodesto/)](https://www.linkedin.com/in/gabrielrmodesto/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrielmodesto5/)](https://www.instagram.com/gabrielmodesto5/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gabriel.rodriguesmodesto)](https://www.facebook.com/gabriel.rodriguesmodesto)
