@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Gabriel, I'm Clara's father, and I have so proud about this.
-I'm currently working on Itau Unibanco, a great company. My job position is Intermediate Software Engineer. I'm currently working with C#, .NET Framework, SQL Server. I'm an enthusiastic for Javascript and React. I love to work with frontend develpoment too.
+I'm currently working on Itau Unibanco, a great company. My job position is Intermediate Software Engineer. I'm currently working with C#, .NET Framework, .NET Core, SQL Server, Angular. I'm an enthusiastic for Javascript and React. I love to work with frontend develpoment too.
 
 - ⚡ Fun fact:
 
